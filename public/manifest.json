@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Outreach OS Extension",
+  "version": "1.0.0",
+  "description": "Quick add lead to your Outreach DB",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Add Lead to Outreach OS"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": []
+}
